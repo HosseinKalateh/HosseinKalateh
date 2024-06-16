@@ -9,7 +9,7 @@
 
 - 👀 Programming is really a big part of my life
 
-- ⚡ I'm a Full Stack Developer
+- ⚡ I'm a Full Stack(Back End focused) Developer
 
 - 💞️ I’m interested in startup & ideation
 
